@@ -1,0 +1,32 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Environments
+.env
+venv/
+env/
+.direnv/
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints 
+
+# IDE-specific files
+.vscode/        # VS Code
+
+# Logs and other output
+*.log
+*.out
+results/
+outputs/ 
+
+# Data files 
+*.csv
+*.txt
+*.pkl
+*.npy
+
+# Operating System Files
+.DS_Store       # macOS
