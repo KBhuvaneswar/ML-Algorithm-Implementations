@@ -14,9 +14,3 @@ This repository showcases practical implementations of various machine learning 
 
 * **[PCA and K-Means Clustering](./PCA_&_KMeans/README.md)**
     * **Description:** Exploration of Principal Component Analysis (PCA) for dimensionality reduction on the MNIST dataset and K-means clustering (Lloyd's algorithm) on a 2D dataset. Includes analysis of explained variance, image reconstruction, and evaluation of K-means effectiveness with suggestions for alternative clustering methods.
-
----
-
-## About Me
-
-I'm Kasanaboina Bhuvaneswar, currently pursuing a Joint MSc in Data Science and Artificial Intelligence offered by IIT Madras and the University of Birmingham. My academic interests lie in machine learning, data science, and large language models, with a particular focus on their applications in real-world domains like healthcare. This repository reflects my practical skills developed during my coursework.
